@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://github.com/TrueCrimeAudit/AutoCline/blob/main/Clint.png" alt="AutoCline Logo"> </p> <h1 align="center">AutoCline</h1>
+<h3 align="center">Automate your VS Code by bugging our good friend, Cline!</h3>
+
 ## Overview
 
 AutoCline is an AutoHotkey script designed to streamline your coding experience in Visual Studio Code by automating button presses. The script automatically clicks specified buttons every 5 seconds, saving you from repetitive tasks and boosting productivity. You can suspend or resume the automation with a simple hotkey (Ctrl + Alt + S) or trigger it manually using Ctrl + Enter.
