@@ -6,9 +6,9 @@
  * @date 2024/12/02
  * @version 1.0.0
  ***********************************************************************/
-#Requires Autohotkey v2.1-alpha.14
+#Requires Autohotkey v2
 #SingleInstance Force
-#Include <UIA> ; Requires UIA AHK v2 library by Descolada https://github.com/Descolada/UIA-v2/
+#Include UIA.ahk ; Requires UIA AHK v2 library by Descolada https://github.com/Descolada/UIA-v2/
 
 #HotIf WinActive("ahk_exe code.exe") 
 ^Enter::RunCline()
