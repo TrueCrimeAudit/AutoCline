@@ -10,6 +10,8 @@
 #SingleInstance Force
 #Include UIA.ahk ; Requires UIA AHK v2 library by Descolada https://github.com/Descolada/UIA-v2/
 
+TraySetIcon("Clint.png")
+
 #HotIf WinActive("ahk_exe code.exe") 
 ^Enter::RunCline()
 #HotIf
